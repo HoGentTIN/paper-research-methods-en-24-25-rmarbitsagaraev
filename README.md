@@ -2,7 +2,7 @@
 
 | Surname      | First Name | Class     | Github user name                        |
 | :----------- | :--------- | :-------- | :-------------------------------------- |
-| Tsagaraev     | Arbi | G2.C1     | [UserName](https://github.com/UserName) |
+| Tsagaraev     | Arbi | G2.C1     | [UserName][(https://github.com/UserName)](https://github.com/ArbiTsagaraev) |
 | Van der Henst     | Emile | G2.C1     | [UserName](https://github.com/UserName) |
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
